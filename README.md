@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Pavan Kumar
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently working on Data Science
-- 💞️ I’m looking to collaborate on literally anything
+## `welcome to my github. this has everything i do, learn, fancy, and try`.
+
+🌱 I’m currently working on my __fundamentals__.
+
+💞️ I’d love to collaborate on literally __anything__.
 
 <!---
 pavankumar-balij/pavankumar-balij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

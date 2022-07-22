@@ -1,6 +1,4 @@
-## `welcome to my github. this has everything i do, learn, fancy, and try`.
-
-🌱 I sometimes do cool stuff.
+## `🌱 I do cool stuff.`
 
 [![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanistaken&bg_color=30,141E30,243B55&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
